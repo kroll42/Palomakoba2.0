@@ -1,2 +1,5 @@
 (PO)
 Product Owner: Karolyne Muniz
+Equipe:Belimetes
+(SM)
+Scrum Master: Ítalo Henrique
