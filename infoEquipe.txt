@@ -5,3 +5,5 @@ Equipe:Belimetes
 Scrum Master: Ítalo Henrique Inácio dos Santos
 
 Desenvolvedor: Jonathan 
+
+Desenvolvedor: Melo
