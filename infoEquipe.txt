@@ -1,9 +1,9 @@
 (PO)
 Product Owner: Karolyne Muniz
-Equipe:Belimetes
+Equipe: Belimitless
 (SM)
-Scrum Master: Ítalo Henrique Inácio dos Santos
-
-Desenvolvedor: Jonathan 
-
-Desenvolvedor: Melo
+Scrum Master: Ítalo Henrique
+(Devs)
+Desenvolvedor: Jonathan Oliveira
+Desenvolvedor: Cláudio Melo
+Desenvolvedor: Ian Lavorente
